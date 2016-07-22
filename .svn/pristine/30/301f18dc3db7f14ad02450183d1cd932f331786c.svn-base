@@ -1,0 +1,3 @@
+#扫描Mybatis接口所在的包定义
+MapperInterfacePackage=com.yunda.app.mapper
+#MapperInterfacePackage=com.yunda.app.mapper.oracle
